@@ -1,4 +1,4 @@
-### ⚠️Currently studying for matura exam⚠️
+### ⚠️ Currently studying for matura exam ⚠️
 
 - Name **Michał Kostrzewski**
 - Live in **Katowice, Poland**
