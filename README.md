@@ -1,4 +1,3 @@
-- Name **Michał Kostrzewski**
 - Live in **Katowice, Poland**
 - Good with **C/C++**
 - Know **Python, HTML, CSS, PHP, JavaScript, Assembly**
