@@ -1,7 +1,7 @@
 - Live in **Katowice, Poland**
 - Good with **C/C++**
 - Know **Python, HTML, CSS, PHP, JavaScript, Assembly**
-- OS **Arch Linux with DWM**
+- OS **Arch Linux with dwm**
 - Language **Polish & English**
 - Like **Open-Source, Fishing, Cycling, Driving**
 
