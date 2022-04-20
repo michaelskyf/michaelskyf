@@ -1,4 +1,14 @@
-### Hi there 👋
+- Name **Michał Kostrzewski**
+- Live in **Katowice, Poland**
+- Good with **C/C++**
+- Know **Python, HTML, CSS, PHP, JavaScript, Assembly**
+- OS **Arch Linux with DWM**
+- Language **Polish & English**
+
+### Repositories
+
+- 📘 [***michaelskyf/GTEngine***](https://github.com/michaelskyf/GTEngine) <br>
+  OpenGL game engine written in C
 
 <!--
 **michaelskyf/michaelskyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
