@@ -19,7 +19,3 @@
 
 - 📚 [***michaelskyf/selog***](https://github.com/michaelskyf/selog) <br>
   Simple logging library for C/C++
-
-### Minor projects
-- ➗ [***michaelskyf/wasm-calculator***](https://github.com/michaelskyf/wasm-calculator) <br>
-  Simple calculator written in C, HTML & JS (*TODO)
