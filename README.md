@@ -1,12 +1,12 @@
 ### ⚠️ Currently studying for matura exam ⚠️
 
 - Name **Michał Kostrzewski**
-- Live in **Katowice, Poland**
+- Location **Katowice, Poland**
 - Good with **C/C++**
 - Know **Python, HTML, CSS, PHP, JavaScript, Assembly, Make**
 - OS **Arch Linux with dwm**
-- Language **Polish & English**
-- Like **Open-Source, Fishing, Cycling, Driving**
+- Languages **Polish & English**
+- Hobbies **Open-Source, Fishing, Cycling, Driving**
 
 ### Projects
 
