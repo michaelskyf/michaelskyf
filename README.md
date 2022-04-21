@@ -22,4 +22,4 @@
 
 ### Minor projects
 - ➗ [***michaelskyf/wasm-calculator***](https://github.com/michaelskyf/wasm-calculator) <br>
-  Small calculator written in C, HTML & JS
+  Simple calculator written in C, HTML & JS
