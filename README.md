@@ -3,7 +3,7 @@
 - Name **Michał Kostrzewski**
 - Live in **Katowice, Poland**
 - Good with **C/C++**
-- Know **Python, HTML, CSS, PHP, JavaScript, Assembly**
+- Know **Python, HTML, CSS, PHP, JavaScript, Assembly, Make**
 - OS **Arch Linux with dwm**
 - Language **Polish & English**
 - Like **Open-Source, Fishing, Cycling, Driving**
