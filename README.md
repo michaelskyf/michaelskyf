@@ -3,7 +3,7 @@
 - Name **Michał Kostrzewski**
 - Location **Katowice, Poland**
 - Good with **C/C++**
-- Know **Python, HTML, CSS, PHP, JavaScript, Assembly, Make**
+- Know **Python, HTML, CSS, PHP, JavaScript, x86 Assembly, Make**
 - OS **Arch Linux with dwm**
 - Languages **Polish & English**
 - Hobbies **Open-Source, Fishing, Cycling, Driving**
@@ -22,4 +22,4 @@
 
 ### Minor projects
 - ➗ [***michaelskyf/wasm-calculator***](https://github.com/michaelskyf/wasm-calculator) <br>
-  Simple calculator written in C, HTML & JS
+  Simple calculator written in C, HTML & JS (*TODO)
