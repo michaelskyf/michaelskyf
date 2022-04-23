@@ -22,4 +22,4 @@
 
 ### Minor Projects
 - 🐧 [***michaelskyf/kernel-mem-change***](https://github.com/michaelskyf/kernel-mem-change) <br>
-  Simple kernel module for changing memory
+  Simple kernel module for changing process memory
