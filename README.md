@@ -6,7 +6,7 @@
 - Know **Python, HTML, CSS, PHP, SQL, JavaScript, x86 Assembly, Make, CMake**
 - OS **Arch Linux with dwm**
 - Languages **Polish & English**
-- Hobbies **Open-Source, Fishing, Cycling, Driving**
+- Hobbies **Open-Source, Fishing, Cycling, Driving, Hiking**
 
 ### Projects
 
