@@ -11,7 +11,7 @@
 ### Projects
 
 - 📘 [***michaelskyf/GTEngine***](https://github.com/michaelskyf/GTEngine) <br>
-  OpenGL game engine written in C (build system converted by me from Linux' kbuild)
+  OpenGL game engine written in C (build system adapted by me from Linux' kbuild)
   
 ### Libraries
 - 📚 [***michaelskyf/sevec***](https://github.com/michaelskyf/sevec) <br>
