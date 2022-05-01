@@ -2,8 +2,8 @@
 
 - Name **Michał Kostrzewski**
 - Location **Katowice, Poland**
-- Proficient in **C/C++**
-- Small experience with **Python, HTML, PHP, SQL, JavaScript, x86 Assembly, Make, CMake**
+- Proficient in **C (to a lesser extent in C++)**
+- Small experience with **Python, PHP, SQL, JavaScript, x86 Assembly, Make, CMake**
 - OS **Arch Linux with dwm**
 - Languages **Polish & English**
 - Hobbies **Programming, Fishing, Cycling, Driving, Hiking**
