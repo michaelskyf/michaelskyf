@@ -4,6 +4,7 @@
 - Location **Katowice, Poland**
 - Proficient in **C (to a lesser extent in C++)**
 - Smaller experience with **Python, PHP, SQL, JavaScript, x86 Assembly, Make, CMake**
+- Complete beginner in **Java**
 - OS **Arch Linux with dwm**
 - Languages **Polish & English**
 - Hobbies **Programming, Fishing, Cycling, Driving, Hiking**
@@ -12,6 +13,8 @@
 
 - 📘 [***michaelskyf/GTEngine***](https://github.com/michaelskyf/GTEngine) <br>
   OpenGL game engine written in C (build system adapted by me from Linux' kbuild)
+- 📁 [***michaelskyf/FOSSync***](https://github.com/michaelskyf/FOSSync) <br>
+  Folder sync utility written in C (server) and Ruby (client)
   
 ### Libraries
 - 📚 [***michaelskyf/sevec***](https://github.com/michaelskyf/sevec) <br>
