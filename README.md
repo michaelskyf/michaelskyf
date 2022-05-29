@@ -14,7 +14,7 @@
 - 📘 [***michaelskyf/GTEngine***](https://github.com/michaelskyf/GTEngine) <br>
   OpenGL game engine written in C (build system adapted by me from Linux' kbuild)
 - 📁 [***michaelskyf/FOSSync***](https://github.com/michaelskyf/FOSSync) <br>
-  Folder sync utility written in C (server) and Ruby (client)
+  Folder sync utility written in C (server) and Ruby (client) ⚠️WIP⚠️
   
 ### Libraries
 - 📚 [***michaelskyf/sevec***](https://github.com/michaelskyf/sevec) <br>
