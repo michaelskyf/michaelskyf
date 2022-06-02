@@ -1,14 +1,13 @@
 ### About me
 
 - Name **Michał Kostrzewski**
-- 🏙️ Location **Katowice, Poland**
+- Location **Katowice, Poland**
 - Proficient in **C (to a lesser extent in C++)**
 - Smaller experience with **Python, PHP, SQL, JavaScript, x86 Assembly, Make, CMake**
-- Complete beginner in **Java**
-- 🖥️ OS **Arch Linux with dwm**
-- 🇵🇱 Languages **Polish & English**
-- 🎣 Hobbies **Programming, Fishing, Cycling, Driving, Hiking**
-- 🎵 Favourite music **Country, Rock**
+- OS **Arch Linux with dwm**
+- Languages **Polish & English**
+- Hobbies **Programming, Fishing, Cycling, Driving, Hiking**
+- Favourite music **Country, Rock**
 
 ### Projects
 
