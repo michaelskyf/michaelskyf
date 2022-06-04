@@ -30,5 +30,7 @@
   Simple calculator that can add two unsigned integers
 - 📁 [***michaelskyf/cdup***](https://github.com/michaelskyf/cdup) <br>
   File duplicates scanner written in C++
+- 📁 [***michaelskyf/jdup***](https://github.com/michaelskyf/jdup) <br>
+  cdup rewritten in Java
 - 📱 [***wiki/Xiaomi_Redmi_Note_8_Pro_(xiaomi-begonia)***](https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_Note_8_Pro_(xiaomi-begonia)) <br>
   Ported PostmarketOS to my Redmi Note 8 Pro
