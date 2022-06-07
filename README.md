@@ -8,6 +8,7 @@
 - Languages **Polish & English**
 - Hobbies **Programming, Fishing, Cycling, Driving, Hiking**
 - Favourite music **Country, Rock**
+- Contact **@skyflighter:matrix.org**
 
 ### Projects
 
