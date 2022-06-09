@@ -5,7 +5,6 @@
 - Languages **Polish & English**
 - Hobbies **Programming, Fishing, Cycling, Driving, Hiking**
 - Favourite music **Country, Rock**
-- Text editor: **neovim**
 - Contact **@skyflighter:matrix.org**
 
 ### Projects
