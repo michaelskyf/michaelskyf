@@ -1,6 +1,6 @@
 ### About me
-- Proficient in **C (to a lesser extent in C++)**
-- Smaller experience with **Python, PHP, SQL, JavaScript, x86 Assembly**
+- Proficient in **C**
+- Smaller experience with **C++, Python, PHP, SQL, JavaScript, x86 Assembly**
 - OS **Arch Linux with dwm**
 - Languages **Polish & English**
 - Hobbies **Programming, Fishing, Cycling, Driving, Hiking**
