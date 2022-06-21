@@ -10,7 +10,7 @@
 ### Projects
 
 - 📘 [***michaelskyf/GTEngine***](https://github.com/michaelskyf/GTEngine) <br>
-  OpenGL game engine written in C (build system adapted by me from Linux' kbuild)
+  OpenGL game engine written in C
 - 📁 [***michaelskyf/FOSSync***](https://github.com/michaelskyf/FOSSync) <br>
   Folder sync utility written in C ⚠️WIP⚠️
   
