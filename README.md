@@ -26,7 +26,7 @@
   Simple kernel module for changing process memory
 - 🖩 [***michaelskyf/x86-assembly-calculator***](https://github.com/michaelskyf/x86-assembly-calculator) <br>
   Simple calculator that can add two unsigned integers
-- 📁 [***michaelskyf/cscan***](https://github.com/michaelskyf/cscan) (formerly cdup) <br>
+- 📁 [***michaelskyf/cscan***](https://github.com/michaelskyf/cscan) <br>
   File duplicates scanner written in C++
 - 📱 [***wiki/Xiaomi_Redmi_Note_8_Pro_(xiaomi-begonia)***](https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_Note_8_Pro_(xiaomi-begonia)) <br>
   Ported PostmarketOS to my Redmi Note 8 Pro
