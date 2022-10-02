@@ -1,11 +1,12 @@
 ### About me
 - Proficient in **C/C++**
 - Smaller experience with **Python, PHP, SQL, JavaScript, x86 Assembly**
-- OS **Arch Linux with dwm**
+- OS **Arch Linux with sway**
 - Languages **Polish & English**
 - Hobbies **Programming, Fishing, Cycling, Driving, Hiking**
 - Favourite music **Country, Rock**
 - Contact **@skyflighter:matrix.org**
+- School **Politechnika Śląska (Silesian University of Technology) - First year**
 
 ### Projects
 
