@@ -6,7 +6,7 @@
 - Hobbies **Programming, Fishing, Cycling, Driving, Hiking**
 - Favourite music **Country, Rock**
 - Contact **@skyflighter:matrix.org**
-- School **Politechnika Śląska (Silesian University of Technology) - undergraduate**
+- School **Silesian University of Technology - undergraduate**
 
 ### Projects
 
