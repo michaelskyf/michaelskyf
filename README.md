@@ -10,10 +10,7 @@
 
 ### Projects
 
-- 📘 [***michaelskyf/GTEngine***](https://github.com/michaelskyf/GTEngine) <br>
-  OpenGL game engine written in C
-- 📁 [***michaelskyf/FOSSync***](https://github.com/michaelskyf/FOSSync) <br>
-  Folder sync utility written in C ⚠️WIP⚠️
+- To be done
   
 ### Libraries
 - 📚 [***michaelskyf/sevec***](https://github.com/michaelskyf/sevec) <br>
