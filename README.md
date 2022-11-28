@@ -1,10 +1,7 @@
 ### About me
-- Proficient in **C/C++**
-- Smaller experience with **Python, PHP, SQL, JavaScript, x86 Assembly**
 - OS **Arch Linux with sway**
-- Languages **Polish & English**
+- Language **Polish & English**
 - Hobbies **Programming, Fishing, Cycling, Driving, Hiking**
-- Favourite music **Country, Rock**
 - Contact **@skyflighter:matrix.org**
 - School **Silesian University of Technology - undergraduate**
 
@@ -19,7 +16,7 @@
 - 📚 [***michaelskyf/selog***](https://github.com/michaelskyf/selog) <br>
   Simple logging library for C/C++
 
-### Notable Minor Projects
+### Minor Projects
 - 🐧 [***michaelskyf/kernel-mem-change***](https://github.com/michaelskyf/kernel-mem-change) <br>
   Simple kernel module for changing process memory
 - 🖩 [***michaelskyf/x86-assembly-calculator***](https://github.com/michaelskyf/x86-assembly-calculator) <br>
