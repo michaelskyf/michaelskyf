@@ -3,7 +3,7 @@
 - Language **Polish & English**
 - Hobbies **Programming, Fishing, Cycling, Driving, Hiking**
 - Contact **@skyflighter:matrix.org**
-- School **Silesian University of Technology - undergraduate**
+- School **Silesian University of Technology - student**
 
 ### Projects
 
