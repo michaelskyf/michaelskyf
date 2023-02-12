@@ -10,15 +10,15 @@
 - To be done
   
 ### Libraries
-- 📚 [***michaelskyf/libhuffman***](https://github.com/michaelskyf/libhuffman) <br>
+- 📚 [***libhuffman***](https://github.com/michaelskyf/libhuffman) <br>
    C++ library for encoding and decoding data using Huffman coding 
 
 ### Minor Projects
-- 🐧 [***michaelskyf/kernel-mem-change***](https://github.com/michaelskyf/kernel-mem-change) <br>
+- 🐧 [***kernel-mem-change***](https://github.com/michaelskyf/kernel-mem-change) <br>
   Simple kernel module for changing process memory
-- 🖩 [***michaelskyf/x86-assembly-calculator***](https://github.com/michaelskyf/x86-assembly-calculator) <br>
+- 🖩 [***x86-assembly-calculator***](https://github.com/michaelskyf/x86-assembly-calculator) <br>
   Simple calculator that can add two unsigned integers
-- 📁 [***michaelskyf/cscan***](https://github.com/michaelskyf/cscan) <br>
+- 📁 [***cscan***](https://github.com/michaelskyf/cscan) <br>
   File duplicates scanner written in C++
 - 📱 [***wiki/Xiaomi_Redmi_Note_8_Pro_(xiaomi-begonia)***](https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_Note_8_Pro_(xiaomi-begonia)) <br>
   Ported PostmarketOS to my Redmi Note 8 Pro
