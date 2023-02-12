@@ -10,11 +10,8 @@
 - To be done
   
 ### Libraries
-- 📚 [***michaelskyf/sevec***](https://github.com/michaelskyf/sevec) <br>
-  Type-safe vector library for C 
-
-- 📚 [***michaelskyf/selog***](https://github.com/michaelskyf/selog) <br>
-  Simple logging library for C/C++
+- 📚 [***michaelskyf/libhuffman***](https://github.com/michaelskyf/libhuffman) <br>
+   C++ library for encoding and decoding data using Huffman coding 
 
 ### Minor Projects
 - 🐧 [***michaelskyf/kernel-mem-change***](https://github.com/michaelskyf/kernel-mem-change) <br>
