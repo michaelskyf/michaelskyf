@@ -6,8 +6,8 @@
 - School **Silesian University of Technology - student**
 
 ### Projects
-
-- To be done
+- 🗒️ [***huffman-encoder***](https://github.com/michaelskyf/huffman-encoder) <br>
+   C++ program for encoding and decoding data using Huffman coding
   
 ### Libraries
 - 📚 [***libhuffman***](https://github.com/michaelskyf/libhuffman) <br>
