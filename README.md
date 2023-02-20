@@ -5,6 +5,8 @@
 - Contact **@skyflighter:matrix.org**
 - School **Silesian University of Technology - student**
 
+**Currently learning Rust**
+
 ### Projects
 - 🗒️ [***huffman-encoder***](https://github.com/michaelskyf/huffman-encoder) <br>
    C++ program for encoding and decoding data using Huffman coding
