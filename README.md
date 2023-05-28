@@ -1,11 +1,9 @@
 ### About me
 - OS **Arch Linux with sway**
 - Language **Polish & English**
-- Hobbies **Programming, Fishing, Cycling, Driving, Hiking**
-- Contact **@skyflighter:matrix.org**
-- School **Silesian University of Technology - student**
-
-**Currently learning Rust**
+- Hobbies **Programming, ML, Fishing, Cycling, Driving, Hiking**
+- Matrix **@skyflighter:matrix.org**
+- Studying at **Silesian University of Technology**
 
 ### Projects
 - 🗒️ [***huffman-encoder***](https://github.com/michaelskyf/huffman-encoder) <br>
