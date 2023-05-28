@@ -1,9 +1,10 @@
 ### About me
 - OS **Arch Linux with sway**
-- Language **Polish & English**
+- Language **Polish** & **English**
 - Hobbies **Programming, ML, Fishing, Cycling, Driving, Hiking**
 - Matrix **@skyflighter:matrix.org**
 - Studying at **Silesian University of Technology**
+- Programming in **C++** & **Rust**
 
 ### Personal Projects
 - TODO
