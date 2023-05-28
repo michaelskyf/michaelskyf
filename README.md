@@ -15,7 +15,7 @@
 
 ### Minor Projects
 - 🐧 [***kernel-mem-change***](https://github.com/michaelskyf/kernel-mem-change) <br>
-  Simple kernel module for changing process memory
+  Simple Linux kernel module for changing process memory
 - 🖩 [***x86-assembly-calculator***](https://github.com/michaelskyf/x86-assembly-calculator) <br>
   Simple calculator that can add two unsigned integers
 - 📁 [***cscan***](https://github.com/michaelskyf/cscan) <br>
