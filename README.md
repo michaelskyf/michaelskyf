@@ -6,7 +6,7 @@
 - Studying at **Silesian University of Technology**
 
 ### Personal Projects
-- TOOD
+- TODO
 
 ### University Projects
 - 🗒️ [***huffman-encoder***](https://github.com/michaelskyf/huffman-encoder) & 📚 [***libhuffman***](https://github.com/michaelskyf/libhuffman)<br>
