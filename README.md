@@ -5,7 +5,10 @@
 - Matrix **@skyflighter:matrix.org**
 - Studying at **Silesian University of Technology**
 
-### Projects
+### Personal Projects
+- TOOD
+
+### University Projects
 - 🗒️ [***huffman-encoder***](https://github.com/michaelskyf/huffman-encoder) <br>
    C++ program for encoding and decoding data using Huffman coding
   
