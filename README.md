@@ -9,12 +9,8 @@
 - TOOD
 
 ### University Projects
-- 🗒️ [***huffman-encoder***](https://github.com/michaelskyf/huffman-encoder) <br>
+- 🗒️ [***huffman-encoder***](https://github.com/michaelskyf/huffman-encoder) & [***libhuffman***](https://github.com/michaelskyf/libhuffman)<br>
    C++ program for encoding and decoding data using Huffman coding
-  
-### Libraries
-- 📚 [***libhuffman***](https://github.com/michaelskyf/libhuffman) <br>
-   C++ library for encoding and decoding data using Huffman coding 
 
 ### Minor Projects
 - 🐧 [***kernel-mem-change***](https://github.com/michaelskyf/kernel-mem-change) <br>
