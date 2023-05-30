@@ -25,4 +25,4 @@
 - 📁 [***cscan***](https://github.com/michaelskyf/cscan) (C++)<br>
   Duplicate file scanner
 - 📱 [***wiki/Xiaomi_Redmi_Note_8_Pro_(xiaomi-begonia)***](https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_Note_8_Pro_(xiaomi-begonia)) <br>
-  Ported PostmarketOS to my Redmi Note 8 Pro
+  Ported PostmarketOS to my phone
