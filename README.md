@@ -2,9 +2,9 @@
 - OS **Arch Linux with sway**
 - Language **Polish** & **English**
 - Hobbies **Programming, ML, Fishing, Cycling, Driving, Hiking**
-- Matrix **@skyflighter:matrix.org**
 - Studying at **Silesian University of Technology**
 - Programming in **C++** & **Rust**
+- Contact **@skyflighter:matrix.org**, **michalskyf#0824**
 
 ### Personal Projects
 - 🖧 [***vpn-server-rs***](https://github.com/michaelskyf/vpn-server-rs) (Rust)<br>
