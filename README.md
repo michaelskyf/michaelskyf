@@ -8,7 +8,7 @@
 
 ### Personal Projects
 - 🖧 [***vpn-server-rs***](https://github.com/michaelskyf/vpn-server-rs) (Rust)<br>
-   VPN server written using Tokio framework
+   VPN server written using Tokio framework (WIP)
 
 ### University Projects
 - 🖧 [***vpn-server-cpp***](https://github.com/michaelskyf/vpn-server-cpp) (C++)<br>
