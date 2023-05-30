@@ -7,7 +7,7 @@
 - Programming in **C++** & **Rust**
 
 ### Personal Projects
-- TODO
+- 🦀 [***vpn-server-rs***](https://github.com/michaelskyf/vpn-server-rs) (will finish when I have some free time)
 
 ### University Projects
 - 🗒️ [***huffman-encoder***](https://github.com/michaelskyf/huffman-encoder) & 📚 [***libhuffman***](https://github.com/michaelskyf/libhuffman)<br>
