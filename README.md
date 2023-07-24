@@ -6,7 +6,7 @@
 - Programming in **C++** & **Rust**
 - Contact **@skyflighter:matrix.org**, **michalskyf#0824**
 
-### University Projects
+### Main Projects
 - 🖧 [***vpn-server-cpp***](https://github.com/michaelskyf/vpn-server-cpp) (C++) (WIP*)<br>
    VPN server written using boost.asio with c++20 coroutines
    
