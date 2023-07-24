@@ -6,10 +6,6 @@
 - Programming in **C++** & **Rust**
 - Contact **@skyflighter:matrix.org**, **michalskyf#0824**
 
-### Personal Projects
-- 🖧 [***vpn-server-rs***](https://github.com/michaelskyf/vpn-server-rs) (Rust) (WIP*)<br>
-   VPN server written using Tokio framework
-
 ### University Projects
 - 🖧 [***vpn-server-cpp***](https://github.com/michaelskyf/vpn-server-cpp) (C++) (WIP*)<br>
    VPN server written using boost.asio with c++20 coroutines
@@ -26,5 +22,3 @@
   Duplicate file scanner
 - 📱 [***wiki/Xiaomi_Redmi_Note_8_Pro_(xiaomi-begonia)***](https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_Note_8_Pro_(xiaomi-begonia)) <br>
   Ported PostmarketOS to my phone
-
-*WIP due to exams
