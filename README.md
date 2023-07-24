@@ -7,7 +7,7 @@
 - Contact **@skyflighter:matrix.org**, **michalskyf#0824**
 
 ### Main Projects
-- 🖧 [***vpn-server-cpp***](https://github.com/michaelskyf/vpn-server-cpp) (C++) (WIP*)<br>
+- 🖧 [***vpn-server-cpp***](https://github.com/michaelskyf/vpn-server-cpp) (C++)<br>
    VPN server written using boost.asio with c++20 coroutines
    
 - 🗒️ [***huffman-encoder***](https://github.com/michaelskyf/huffman-encoder) & 📚 [***libhuffman***](https://github.com/michaelskyf/libhuffman) (C++)<br>
