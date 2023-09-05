@@ -1,9 +1,9 @@
 ### About me
 - OS **Arch Linux with sway**
 - Language **Polish** & **English**
-- Hobbies **Programming, ML, Fishing, Cycling, Driving, Hiking**
+- Hobbies **Programming, Fishing, Cycling, Driving, Hiking**
 - Studying at **Silesian University of Technology**
-- Programming in **C++**, **Rust** & **Kotlin**
+- Programming in **C++**, **Rust** & **Kotlin/Java**
 - Contact **@skyflighter:matrix.org**, **michalskyf#0824**
 
 ### Main Projects
