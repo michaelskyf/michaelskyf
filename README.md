@@ -14,7 +14,7 @@
    VPN server written using boost.asio with c++20 coroutines
    
 - 🗒️ [***huffman-encoder***](https://github.com/michaelskyf/huffman-encoder) & 📚 [***libhuffman***](https://github.com/michaelskyf/libhuffman) (C++)<br>
-   Program for encoding and decoding data using Huffman coding
+   Compression/Decompression tool using Huffman coding
 
 ### Minor Projects
 - 🐧 [***kernel-mem-change***](https://github.com/michaelskyf/kernel-mem-change) (C)<br>
