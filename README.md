@@ -8,7 +8,7 @@
 
 ### Main Projects
 - 🥸 [***OpenFaker***](https://github.com/michaelskyf/OpenFaker) (Kotlin)<br>
-   Android App which fakes values returned by system libraries (WIP)
+   Android App which fakes values returned by system libraries
 
 - 🖧 [***vpn-server-cpp***](https://github.com/michaelskyf/vpn-server-cpp) (C++)<br>
    VPN server written using boost.asio with c++20 coroutines
