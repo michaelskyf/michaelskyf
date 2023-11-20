@@ -6,8 +6,6 @@
 - Programming in **C++**, **Rust** & **Kotlin/Java**
 - Contact **@skyflighter:matrix.org**, **michalskyf#0824**
 
-**I'm Currently Looking For A Job**
-
 ### Main Projects
 - 🥸 [***OpenFaker***](https://github.com/michaelskyf/OpenFaker) (Kotlin)<br>
    Android App which fakes values returned by system
