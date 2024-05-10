@@ -4,7 +4,7 @@
 - Hobbies **Programming, Fishing, Cycling, Driving, Hiking**
 - Studying at **Silesian University of Technology**
 - Programming in **C++**, **Rust** & **Kotlin/Java**
-- Contact **@skyflighter:matrix.org**, **michaelskyf**
+- Contact **@skyflighter:matrix.org**
 
 ### Main Projects
 - 🥸 [***OpenFaker***](https://github.com/michaelskyf/OpenFaker) (Kotlin)<br>
