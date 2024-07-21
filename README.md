@@ -1,6 +1,6 @@
 ### About me
 - OS **Arch Linux with sway**
-- Language **Polish** & **English**
+- Language **Polish** & **English + Russian (very basic)**
 - Hobbies **Programming, Fishing, Cycling, Driving, Hiking**
 - Studying at **Silesian University of Technology**
 - Programming in **C++**, **Rust** & **Kotlin/Java**
