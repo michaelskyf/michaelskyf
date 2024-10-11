@@ -3,7 +3,7 @@
 - Language **Polish** & **English + Russian (very basic)**
 - Hobbies **Programming, Fishing, Cycling, Driving, Hiking**
 - Studying at **Silesian University of Technology**
-- Programming in **C++**, **Rust** & **Kotlin/Java**
+- Programming in **C/C++**, **Rust** & **Kotlin/Java**
 - Contact **@skyflighter:matrix.org**
 
 ### Main Projects
