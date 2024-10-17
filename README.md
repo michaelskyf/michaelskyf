@@ -7,7 +7,7 @@
 - Contact **@skyflighter:matrix.org**
 
 ### Main Projects
-- 🥸 [***OpenFaker***](https://github.com/michaelskyf/OpenFaker) (Kotlin)<br>
+- 🥸 [***OpenFaker***](https://github.com/michaelskyf/OpenFaker) (Kotlin) To be rewritten!<br>
    Android App which fakes values returned by system
 
 - 🖧 [***vpn-server-cpp***](https://github.com/michaelskyf/vpn-server-cpp) (C++)<br>
